@@ -1,0 +1,32 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-5b7548bf:14442bf8654:-56da</id>
+  <name>Ohio</name>
+  <mode>SINGLE</mode>
+  <title>Ohio</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-5b7548bf:1444295f4aa:-32e8</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-5b7548bf:14442bf8654:-56db</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-84.8190771098524</minx>
+    <maxx>-80.5190299763377</maxx>
+    <miny>38.4046590631391</miny>
+    <maxy>41.9473763932419</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

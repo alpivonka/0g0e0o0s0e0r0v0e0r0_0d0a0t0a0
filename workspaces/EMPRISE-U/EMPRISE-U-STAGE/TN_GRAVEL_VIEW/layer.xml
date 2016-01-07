@@ -1,0 +1,20 @@
+<layer>
+  <name>TN_GRAVEL_VIEW</name>
+  <id>LayerInfoImpl--6f5c37de:14519ad5c32:-5be2</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6f5c37de:14519ad5c32:-5be3</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

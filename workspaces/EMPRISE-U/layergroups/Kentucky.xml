@@ -1,0 +1,32 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--42fee024:1424f95beea:8e3</id>
+  <name>Kentucky</name>
+  <mode>SINGLE</mode>
+  <title>Kentucky</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--42fee024:1424f7c5016:4bd9</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--42fee024:1424f7c5016:4e56</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-89.525945120717</minx>
+    <maxx>-82.0772876781669</maxx>
+    <miny>36.4976405530975</miny>
+    <maxy>39.1159195670211</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

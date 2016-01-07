@@ -1,0 +1,32 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-5b7548bf:14471726687:-6185</id>
+  <name>Idaho</name>
+  <mode>SINGLE</mode>
+  <title>Idaho</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-5b7548bf:144715a8250:-4658</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-5b7548bf:14471726687:-6186</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-117.126027729465</minx>
+    <maxx>-111.397633102725</maxx>
+    <miny>42.7190970070682</miny>
+    <maxy>48.8659403342664</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

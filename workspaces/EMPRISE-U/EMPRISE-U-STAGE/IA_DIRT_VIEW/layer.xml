@@ -1,0 +1,20 @@
+<layer>
+  <name>IA_DIRT_VIEW</name>
+  <id>LayerInfoImpl-5b7548bf:14455dc3b8c:-4047</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-5b7548bf:14455dc3b8c:-4048</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

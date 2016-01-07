@@ -1,0 +1,26 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--148024ba:14499247015:-1547</id>
+  <name>Pennsylvania</name>
+  <mode>SINGLE</mode>
+  <title>Pennsylvania</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--148024ba:14499247015:-7fdd</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-80.5193459949741</minx>
+    <maxx>-74.8125765865459</maxx>
+    <miny>39.7201017956629</miny>
+    <maxy>42.2516872051956</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

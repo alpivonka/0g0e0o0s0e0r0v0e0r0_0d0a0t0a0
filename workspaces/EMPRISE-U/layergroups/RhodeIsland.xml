@@ -1,0 +1,32 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--42fee024:14252ebb126:201</id>
+  <name>RhodeIsland</name>
+  <mode>SINGLE</mode>
+  <title>RhodeIsland</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--42fee024:14252ebb126:1fc</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--42fee024:14252ebb126:200</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-71.8576728569218</minx>
+    <maxx>-71.110697008824</maxx>
+    <miny>41.1485519411254</miny>
+    <maxy>42.0158767700411</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

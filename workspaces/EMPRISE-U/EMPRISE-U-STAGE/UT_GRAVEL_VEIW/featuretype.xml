@@ -1,0 +1,56 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--42fee024:14252de4e42:-79dd</id>
+  <name>UT_GRAVEL_VEIW</name>
+  <nativeName>UT_GRAVEL_VEIW</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--42fee024:1424f2e10bc:-7ffe</id>
+  </namespace>
+  <title>UT_GRAVEL_VEIW</title>
+  <keywords>
+    <string>UT_GRAVEL_VEIW</string>
+    <string>features</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;WGS 84&quot;, 
+  DATUM[&quot;World Geodetic System 1984&quot;, 
+    SPHEROID[&quot;WGS 84&quot;, 6378137.0, 298.257223563, AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;6326&quot;]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]]</nativeCRS>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>-114.089180919364</minx>
+    <maxx>-109.051182955771</maxx>
+    <miny>36.9990664874993</miny>
+    <maxy>42.0244554729655</maxy>
+    <crs>EPSG:4326</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-114.089180919364</minx>
+    <maxx>-109.051182955771</maxx>
+    <miny>36.9990664874993</miny>
+    <maxy>42.0244554729655</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, 
+  DATUM[&quot;WGS84&quot;, 
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <advertised>false</advertised>
+  <metadata>
+    <entry key="kml.regionateAttribute">geom</entry>
+    <entry key="cachingEnabled">false</entry>
+    <entry key="kml.regionateStrategy">geometry</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--42fee024:1424f2e10bc:-7ffd</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+</featureType>

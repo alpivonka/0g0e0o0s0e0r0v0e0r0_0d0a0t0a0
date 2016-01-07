@@ -1,0 +1,20 @@
+<layer>
+  <name>VI_UNIMPROVED_VIEW</name>
+  <id>LayerInfoImpl--6f5c37de:14520408617:575c</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6f5c37de:14520408617:575b</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

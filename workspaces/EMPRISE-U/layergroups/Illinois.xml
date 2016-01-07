@@ -1,0 +1,32 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--42fee024:14253111b10:-68d6</id>
+  <name>Illinois</name>
+  <mode>SINGLE</mode>
+  <title>Illinois</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--42fee024:14252e52621:-5da5</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--42fee024:14252e60d17:-7b55</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-91.4955599788078</minx>
+    <maxx>-87.4968190987509</maxx>
+    <miny>36.9952625170764</miny>
+    <maxy>42.5083099140228</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

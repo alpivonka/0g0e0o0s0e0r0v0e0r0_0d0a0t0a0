@@ -1,0 +1,32 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--42fee024:14252c3d422:-72bf</id>
+  <name>Oklahoma</name>
+  <mode>SINGLE</mode>
+  <title>Oklahoma</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--42fee024:14252c3d422:-72c4</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--42fee024:14252c3d422:-72c0</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-103.002492855567</minx>
+    <maxx>-94.4327914541824</maxx>
+    <miny>33.6469938300312</miny>
+    <maxy>37.0022589144208</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

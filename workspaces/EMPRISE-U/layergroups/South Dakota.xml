@@ -1,0 +1,32 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-5b7548bf:14493971b54:-625b</id>
+  <name>South Dakota</name>
+  <mode>SINGLE</mode>
+  <title>South Dakota</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-5b7548bf:1447a1ddece:4c36</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-5b7548bf:1447a1ddece:4c32</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-104.055953945507</minx>
+    <maxx>-96.4503920364496</maxx>
+    <miny>42.5328767554971</miny>
+    <maxy>45.9458019110327</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

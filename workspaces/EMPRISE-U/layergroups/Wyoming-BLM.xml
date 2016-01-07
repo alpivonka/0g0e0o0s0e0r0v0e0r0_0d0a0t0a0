@@ -1,0 +1,38 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--6f5c37de:14518fb5bc3:-3c18</id>
+  <name>Wyoming-BLM</name>
+  <mode>SINGLE</mode>
+  <title>Wyoming-BLM</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--6f5c37de:14509ea1933:-7ca8</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6f5c37de:14509ea1933:-7ca4</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6f5c37de:14509ea1933:-7ca0</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-111.0477244471</minx>
+    <maxx>-104.000468119976</maxx>
+    <miny>40.993904163</miny>
+    <maxy>45.0057984069911</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

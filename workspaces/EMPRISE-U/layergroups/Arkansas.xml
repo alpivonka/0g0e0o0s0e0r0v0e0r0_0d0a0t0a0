@@ -1,0 +1,26 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-5b7548bf:14442d45d9e:535f</id>
+  <name>Arkansas</name>
+  <mode>SINGLE</mode>
+  <title>Arkansas</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-5b7548bf:14442616e06:5959</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-94.5801925848603</minx>
+    <maxx>-89.7432660694321</maxx>
+    <miny>33.004780545664</miny>
+    <maxy>36.4991958181243</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

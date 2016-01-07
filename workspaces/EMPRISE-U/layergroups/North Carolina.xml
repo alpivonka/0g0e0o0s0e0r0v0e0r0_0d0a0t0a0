@@ -1,0 +1,26 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--148024ba:14498fe020b:3ef7</id>
+  <name>North Carolina</name>
+  <mode>SINGLE</mode>
+  <title>North Carolina</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--148024ba:14498fe020b:137e</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-84.3086216556311</minx>
+    <maxx>-75.4621566929611</maxx>
+    <miny>33.8749775481188</miny>
+    <maxy>36.5839814981042</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

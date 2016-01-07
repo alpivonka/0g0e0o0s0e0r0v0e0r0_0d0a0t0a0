@@ -1,0 +1,20 @@
+<layer>
+  <name>WY_BLM_GRAVEL_VIEW</name>
+  <id>LayerInfoImpl--6f5c37de:14509ea1933:-7ca0</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6f5c37de:14509ea1933:-7ca1</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

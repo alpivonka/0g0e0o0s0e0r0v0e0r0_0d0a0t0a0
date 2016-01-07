@@ -1,0 +1,32 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--42fee024:1425281ef9f:7cb6</id>
+  <name>Kansas</name>
+  <mode>SINGLE</mode>
+  <title>Kansas</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--42fee024:1424f98aa0f:7e9e</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--42fee024:1425281ef9f:7cb5</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-102.049603336372</minx>
+    <maxx>-94.6081492042907</maxx>
+    <miny>36.9931409717047</miny>
+    <maxy>40.0026815995571</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

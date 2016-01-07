@@ -1,0 +1,26 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--6f5c37de:14508994d30:6438</id>
+  <name>Texas</name>
+  <mode>SINGLE</mode>
+  <title>Texas</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--6f5c37de:14504765f97:51a2</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-106.625155</minx>
+    <maxx>-93.5275466666667</maxx>
+    <miny>25.8552522222222</miny>
+    <maxy>36.5006616666666</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

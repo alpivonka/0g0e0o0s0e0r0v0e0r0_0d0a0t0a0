@@ -1,0 +1,32 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--6f5c37de:14525273bb6:-6a27</id>
+  <name>Virginia</name>
+  <mode>SINGLE</mode>
+  <title>Virginia</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--6f5c37de:14520408617:575c</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6f5c37de:14520408617:5760</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-83.5736407056213</minx>
+    <maxx>-75.5385074022905</maxx>
+    <miny>36.5408417420771</miny>
+    <maxy>39.4366217451355</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

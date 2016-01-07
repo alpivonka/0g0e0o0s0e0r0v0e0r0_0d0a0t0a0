@@ -1,0 +1,32 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-5b7548bf:14466bca0cd:-6868</id>
+  <name>Vermont</name>
+  <mode>SINGLE</mode>
+  <title>Vermont</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-5b7548bf:14466bca0cd:-6869</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-5b7548bf:14466bca0cd:-686d</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-73.3959579469988</minx>
+    <maxx>-71.5342864984433</maxx>
+    <miny>42.7271817091374</miny>
+    <maxy>45.0137796622583</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

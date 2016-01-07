@@ -1,0 +1,32 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--148024ba:14498693472:161c</id>
+  <name>North Dakota</name>
+  <mode>SINGLE</mode>
+  <title>North Dakota</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--148024ba:14497b4829a:-d22</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--148024ba:14497b4829a:-d1d</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-104.047538463048</minx>
+    <maxx>-96.554780509735</maxx>
+    <miny>45.9305537169999</miny>
+    <maxy>49.0018069430477</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

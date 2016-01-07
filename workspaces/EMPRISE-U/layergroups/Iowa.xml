@@ -1,0 +1,32 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-5b7548bf:14455dc3b8c:-16a5</id>
+  <name>Iowa</name>
+  <mode>SINGLE</mode>
+  <title>Iowa</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-5b7548bf:14455dc3b8c:-4047</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-5b7548bf:14455dc3b8c:-4043</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-96.6157987163932</minx>
+    <maxx>-90.1696067446071</maxx>
+    <miny>40.3862781463074</miny>
+    <maxy>43.5011752330036</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

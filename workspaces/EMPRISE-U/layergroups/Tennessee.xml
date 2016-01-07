@@ -1,0 +1,32 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--6f5c37de:14519ad5c32:-2c92</id>
+  <name>Tennessee</name>
+  <mode>SINGLE</mode>
+  <title>Tennessee</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--6f5c37de:14519ad5c32:-5be2</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6f5c37de:14519ad5c32:-2d59</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-90.170695251641</minx>
+    <maxx>-81.6953552696457</maxx>
+    <miny>34.9861372092208</miny>
+    <maxy>36.6771328782522</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

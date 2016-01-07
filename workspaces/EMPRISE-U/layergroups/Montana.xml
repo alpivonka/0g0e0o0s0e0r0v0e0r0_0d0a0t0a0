@@ -1,0 +1,32 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--148024ba:14497aee22d:-645</id>
+  <name>Montana</name>
+  <mode>SINGLE</mode>
+  <title>Montana</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--148024ba:14495209e67:3797</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--148024ba:14495209e67:379b</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-116.147157824384</minx>
+    <maxx>-104.0415484507</maxx>
+    <miny>44.4371057171051</miny>
+    <maxy>49.0009507369398</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

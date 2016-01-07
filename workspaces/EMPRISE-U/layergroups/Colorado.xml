@@ -1,0 +1,44 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--42fee024:14253091140:-27e8</id>
+  <name>Colorado</name>
+  <mode>SINGLE</mode>
+  <title>Colorado</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--42fee024:14252ebb126:50ef</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--42fee024:14252ebb126:50f3</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--42fee024:14253091140:-27ed</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--42fee024:14253091140:-27e9</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-109.060643588953</minx>
+    <maxx>-102.041596034736</maxx>
+    <miny>36.9930704030776</miny>
+    <maxy>41.003618841747</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

@@ -1,0 +1,26 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--6f5c37de:14509d81217:-401e</id>
+  <name>Wyoming</name>
+  <mode>SINGLE</mode>
+  <title>Wyoming</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--6f5c37de:14509d81217:-62dd</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-111.047183898</minx>
+    <maxx>-104.051114357</maxx>
+    <miny>40.993904163</miny>
+    <maxy>45.0012962970001</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

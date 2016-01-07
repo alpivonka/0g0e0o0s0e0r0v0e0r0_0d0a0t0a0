@@ -1,0 +1,32 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--42fee024:1424f42a501:-36bd</id>
+  <name>Indiana</name>
+  <mode>SINGLE</mode>
+  <title>Indiana</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--42fee024:1424f2e10bc:-7ff8</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--42fee024:1424f42a501:-3c0b</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-88.0715728163074</minx>
+    <maxx>-84.7935980441169</maxx>
+    <miny>37.7768950836178</miny>
+    <maxy>41.7606899150487</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

@@ -1,0 +1,32 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--42fee024:1425290da70:-140b</id>
+  <name>Massachusetts</name>
+  <mode>SINGLE</mode>
+  <title>Massachusetts</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--42fee024:1424f2e10bc:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--42fee024:1425290da70:-1410</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--42fee024:1425290da70:-140c</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f2e10bc:-7ffc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42fee024:1424f42a501:-3c0f</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-73.489636846875</minx>
+    <maxx>-69.9377525181598</maxx>
+    <miny>41.2401856293926</miny>
+    <maxy>42.8826953115782</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>
